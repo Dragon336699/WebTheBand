@@ -1,0 +1,40 @@
+.clear {
+    overflow: hidden;
+}
+.row-margin {
+    margin-left: -8px ;
+    margin-right: -8px;
+}
+
+.column {
+    float:left;
+}
+
+.column-third {
+    width: 33.33333%;
+}
+
+.column-half {
+    width: 50%;
+    padding: 0 8px;
+}
+
+.column-full {
+    width: 100%;
+}
+
+.mt8 {
+    margin-top:8px;
+}
+
+.mb8 {
+    margin-bottom: 8px;
+}
+
+.mt16 {
+    margin-top: 16px;
+}
+
+.text-center {
+    text-align: center;
+}
